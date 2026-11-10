@@ -1,0 +1,26 @@
+INFO This Nssembly Program prints HELLO
+INFO A Line Break, then WORLD
+BUY 1
+M 0
+W 72
+Rc
+W 69
+Rc
+W 76
+Rc
+Rc
+W 79
+Rc
+SND
+W 87
+Rc
+W 79
+Rc
+W 82
+Rc
+W 76
+Rc
+W 68
+Rc
+SND
+SLL 1

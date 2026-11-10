@@ -1,0 +1,32 @@
+Global:
+INFO - Comment
+BUY [x] - Allocate more units
+SLL [x] - Free units
+JMP [line] - Jump to this line, if pointing to zero
+CPY [x]
+SND
+
+Write:
+W [x] - Write
+Wn [x] - Write, move next
+Wi [x] - Write input, x max
+
+
+Read:
+R
+Rs
+Rc
+Rx
+Rb
+
+Move:
+M
+Mr
+Ml
+
+Operations:
+ADD
+SUB
+MUL
+DIV
+MOD
